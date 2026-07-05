@@ -1,0 +1,51 @@
+# Geotechnik — Dresden
+
+> Geotechnical engineering services in Dresden, Deutschland.
+
+## Services
+- [Anker](https://dresden.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://dresden.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://dresden.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://dresden.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://dresden.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://dresden.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://dresden.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://dresden.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://dresden.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://dresden.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://dresden.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://dresden.geotechnik.biz/fundamente/)
+- [Grundungen](https://dresden.geotechnik.biz/grundungen/)
+- [Hange](https://dresden.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://dresden.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://dresden.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://dresden.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://dresden.geotechnik.biz/labor/)
+- [Labor In Situ](https://dresden.geotechnik.biz/labor-in-situ/)
+- [Masw](https://dresden.geotechnik.biz/masw/)
+- [Pfahle](https://dresden.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://dresden.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://dresden.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://dresden.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://dresden.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://dresden.geotechnik.biz/schurfgruben/)
+- [Seismik](https://dresden.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://dresden.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://dresden.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://dresden.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://dresden.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://dresden.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://dresden.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://dresden.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://dresden.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://dresden.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://dresden.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://dresden.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://dresden.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://dresden.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Dresden, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
